@@ -1,0 +1,29 @@
+{
+  "Waffle Houses per State": {
+    "Georgia": 433,
+    "Florida": 185,
+    "North Carolina": 183,
+    "South Carolina": 171,
+    "Alabama": 153,
+    "Tennessee": 134,
+    "Texas": 121,
+    "Louisiana": 99,
+    "Mississippi": 88,
+    "Ohio": 80,
+    "Virginia": 68,
+    "Kentucky": 62,
+    "Arkansas": 46,
+    "Missouri": 38,
+    "Indiana": 24,
+    "Oklahoma": 16,
+    "Arizona": 15,
+    "Maryland": 12,
+    "Colorado": 10,
+    "Pennsylvania": 10,
+    "West Virginia": 5,
+    "Kansas": 4,
+    "Delaware": 3,
+    "Illinois": 2,
+    "New Mexico": 2
+  }
+}
